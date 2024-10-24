@@ -36,4 +36,3 @@
 
 1. Start program
 2. Function: Get room details
-3. 
